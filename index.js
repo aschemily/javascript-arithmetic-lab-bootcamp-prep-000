@@ -4,5 +4,4 @@ function add (a,b){
   return (a+b)
 }
 
-parseInt (add (a,b))
 
